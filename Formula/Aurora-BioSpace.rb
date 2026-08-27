@@ -1,6 +1,6 @@
 class AuroraBiospace < Formula
-  desc "Launcher for the Aurora Bioscience Dashboard by Quantal-Labs, founded by Codemaster-AR."
-  homepage "https://github.com/Quantal-Labs/Aurora-BioSpace"
+  desc "Launcher for the Aurora Bioscience Dashboard by Quantal-Universe, founded by Codemaster-AR."
+  homepage "https://github.com/Quantal-Universe/Aurora-BioSpace"
   url "https://github.com/Quantal-Universe/Aurora-BioSpace/archive/refs/tags/v8.0.0.tar.gz"
   sha256 "c9d7222fadc31921dd82ccbab6e88f75818f06229894664fd5395e59258ccafb"
   version "8.0.0"
